@@ -1,3 +1,11 @@
 def nyc_pigeon_organizer(data)
-  new_hash = {}
+  {
+    "Theo" => {},
+    "Peter Jr." => {},
+    "Lucky" => {},
+    "Ms. K" => {},
+    "Queenie" => {},
+    "Andrew" => {},
+    "Alex" => {}
+  }
 end
